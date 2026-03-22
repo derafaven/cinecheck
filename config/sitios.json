@@ -1,0 +1,1 @@
+{"sitios":[{"id":"detodopeliculas","nombre":"De Todo Películas","url_base":"https://detodopeliculas.nu","activo":true,"tipo":"dooplay_api","config":{"endpoint":"/wp-json/dooplay/search/","param_keyword":"keyword","necesita_nonce":true}}]}
